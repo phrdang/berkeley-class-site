@@ -28,6 +28,10 @@ Testing blah blah
 
 blah blah
 
+no alt text will this cause an error?
+
+![](screenshot.png)
+
 ###
 
 more blah blah
